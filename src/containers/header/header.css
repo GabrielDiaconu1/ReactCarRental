@@ -1,0 +1,24 @@
+.save{
+    
+    font-size: 40px;
+}
+.big{
+    color:red;
+}
+.car__header-content{
+    text-align: center;
+}
+.car{
+    position: relative;
+    z-index: 3;
+}
+.skyline{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+.text-container {
+    position: relative;
+    z-index: 2; /* Middle z-index for the text */
+  }

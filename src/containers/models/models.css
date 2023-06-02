@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .buttonContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-right: 10px;
+  }
+  
+  .buttonContainer button {
+    margin-bottom: 5px;
+  }
+  
+  #imageDisplay {
+    max-width: 400px;
+  }
+  .container{
+    display: grid;
+
+    gap: 10px;
+  }
+  
+  
